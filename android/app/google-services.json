@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "100143474652",
+    "project_id": "e7gzly-fd3fe",
+    "storage_bucket": "e7gzly-fd3fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100143474652:android:d4417f2b6e530a5a241119",
+        "android_client_info": {
+          "package_name": "eg.edu.miuegypt.csc422.E7gzly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100143474652-m6ou0l8lcufk6krkej9b1lbngv7dfnso.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "eg.edu.miuegypt.csc422.E7gzly",
+            "certificate_hash": "1abd0ddeed4aefbc6ca1db56292ac28cb2a0d482"
+          }
+        },
+        {
+          "client_id": "100143474652-5nr5rsegsat39aalpgt5qldojeqoa8gv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADJBULV3wqQz_72tbJ5dlFu1vMBxHDhao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100143474652-5nr5rsegsat39aalpgt5qldojeqoa8gv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
